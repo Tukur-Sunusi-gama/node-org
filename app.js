@@ -8,6 +8,9 @@ const http = require('http');
 // server.listen(() => {
 
 // }, 3000)
-const facs = Tk.factorsOf(0)
+const facs = Tk.factorsOf(100)
 
 console.log(facs);
+
+//server
+
